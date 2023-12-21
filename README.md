@@ -22,7 +22,7 @@ Hello, I am a blockchain developer with strong logic and deepest comprehension a
     </td>
      <td align="center" width="70">
       <a href="#macropower-tech">
-        <img src="./assets/logo/solana.png" width="60" height="60" alt="Solana" />
+        <img src="./assets/logo/solana.png" width="70" height="60" alt="Solana" />
       </a>
       <br>Solana
     </td>
