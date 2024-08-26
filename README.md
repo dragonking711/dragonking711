@@ -6,7 +6,7 @@
 <p align="center">
   <img align="center" src="./assets/blockchainLogo.png" style = "width: -webkit-fill-available;"/>
 </p>
-Hello, I am a blockchain developer with strong logic and deepest comprehension about the nature of blockchain, hence providing every client perfect product in time. I always find pleasure in working with clients who have brilliant ideas.
+Hello, I am a Full Stack Engineer with Extensive Blockchain and Trading Experience.
 
 ## Experienced Blockchain Networks
 
