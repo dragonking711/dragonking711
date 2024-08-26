@@ -6,7 +6,7 @@
 <p align="center">
   <img align="center" src="./assets/blockchainLogo.png" style = "width: -webkit-fill-available;"/>
 </p>
-Hello, I am a Full Stack Engineer with Extensive Blockchain and Trading Experience.
+<p align="center"> 💖💖💖 Hello, I am a Full Stack Engineer with Extensive Blockchain and Trading Experience. 💖💖💖 </p>
 
 ## Experienced Blockchain Networks
 
