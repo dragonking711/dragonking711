@@ -102,3 +102,11 @@
     <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a>
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 </p>
+
+<div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/gymgle/gymgle/blob/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/gymgle/gymgle/blob/output/github-contribution-grid-snake.svg">
+  <img alt="github-snake" src="https://github.com/gymgle/gymgle/blob/output/github-contribution-grid-snake.svg">
+</picture>
+</div>
