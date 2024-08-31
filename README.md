@@ -129,7 +129,6 @@ Elevault offers a versatile array of investment mechanisms, each meticulously cr
 
 - <a href="https://www.elevaultcoin.com/">elevaultcoin.com</a>
 - <a href="https://www.elevaultcoin.com/whitepaper">Whitepaper</a>
-- <a href="https://github.com/smart0327/elevault.git">Source repo</a>
 
 <br />
 
@@ -145,7 +144,6 @@ Streamer inu was created for one primary goal - becoming the face of streamers i
 - <a href="https://streamerinu.com/">Main Link(streamerinu.com)</a>
 - <a href="https://omni-trade.io/">Cross-chain trading app</a>
 - <a href="https://streamerinu.gitbook.io/streamer-inu-whitepaper">Whitepaper</a>
-- <a href="https://github.com/smart0327/streamer-inu-contracts">Source repo</a>
 
 <br />
 
@@ -159,7 +157,6 @@ BendDAO is the first NFT liquidity protocol supporting instant NFT-backed loans,
 
 - <a href="https://www.benddao.xyz/">benddao.xyz</a>
 - <a href="https://docs.benddao.xyz/portal/">Docs</a>
-- <a href="https://github.com/smart0327/bend-lending-protocol">Source repo</a>
 
 <br />
 
