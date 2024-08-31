@@ -3,13 +3,13 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=45&duration=1500&pause=1000&color=0C6CF7&center=true&vCenter=true&random=false&width=1200&height=100&lines=senior+Blockchain+Developer;seasoned+Web+Developer;">
   </a>
 </p>
-<p>
-  <p>## My Programming Stats</p>
- <img align="center" width="40%" src="https://github-readme-stats.vercel.app/api?username=gamemann&count_private=true&include_all_commits=true&show_icons=true&theme=blue-green&border_color=001F1E&text_color=09d672&icon_color=00C2C2&title_color=00F1E9&custom_title=Stats" alt="My GitHub Stats" />  <img align="center" width="55%" src="https://github-readme-stats.vercel.app/api/wakatime?username=gamemann&theme=blue-green&border_color=001F1E&text_color=09d672&icon_color=00C2C2&title_color=00F1E9" alt="My GitHub Time Stats" /> 
+<h1><i>My Programming Stats</i></h1>
+<p align="center">
+  <img align="center" width="70%" src="https://github-readme-stats.vercel.app/api/wakatime?username=gamemann&theme=blue-green&border_color=001F1E&text_color=09d672&icon_color=00C2C2&title_color=00F1E9" alt="My GitHub Time Stats" /> 
 </p>
 <p align="center"> 💖💖💖 Hello, I am a Full Stack Engineer with Extensive Blockchain and Trading Experience. 💖💖💖 </p>
 
-## Experienced Blockchain Networks
+# <i>Experienced Blockchain Networks</i>
 
 <table>
   <tr>
@@ -46,9 +46,9 @@
     </tr>
 </table>
 
-<h2 align="left" id="macropower-tech">Favorite Tech</h2>
+# <i>Favorite Tech</i>
 
-**> Programming languages**
+#<i> Programming languages </i>
 
 <p>
   <a href="https://github.com/search?q=user%3Asenior-dev-1019+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
@@ -63,7 +63,7 @@
     <a href="https://github.com/search?q=user%3Asenior-dev-1019+language%3Asql"><img alt="SQL" src="https://img.shields.io/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
 </p>
 
-**> Tools**
+#<i>  Tools </i>
 
 <p>
     <a href="#"><img alt="Laravel" src="https://img.shields.io/badge/Laravel-404d59.svg?logo=laravel&logoColor=white"></a>
@@ -90,7 +90,7 @@
     <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white"></a>
 </p>
 
-**> Software and tools**
+#<i> Software and tools </i>
 
 <p>
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
