@@ -3,9 +3,8 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=45&duration=1500&pause=1000&color=0C6CF7&center=true&vCenter=true&random=false&width=1200&height=100&lines=senior+Blockchain+Developer;seasoned+Web+Developer;">
   </a>
 </p>
-<p align="center">
-  <img align="center" src="./assets/blockchainLogo.png" style = "width: -webkit-fill-available;"/>
-</p>
+# My Programming Stats
+| <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api?username=gamemann&count_private=true&include_all_commits=true&show_icons=true&theme=blue-green&border_color=001F1E&text_color=09d672&icon_color=00C2C2&title_color=00F1E9&custom_title=Stats" alt="My GitHub Stats" /> | <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=gamemann&theme=blue-green&border_color=001F1E&text_color=09d672&icon_color=00C2C2&title_color=00F1E9" alt="My GitHub Time Stats" /> |
 <p align="center"> 💖💖💖 Hello, I am a Full Stack Engineer with Extensive Blockchain and Trading Experience. 💖💖💖 </p>
 
 ## Experienced Blockchain Networks
