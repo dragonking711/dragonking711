@@ -5,7 +5,7 @@
 </p>
 <h1><i>My Programming Stats</i></h1>
 <p align="center">
-  <img align="center" width="70%" src="https://github-readme-stats.vercel.app/api/wakatime?username=gamemann&theme=blue-green&border_color=001F1E&text_color=09d672&icon_color=00C2C2&title_color=00F1E9" alt="My GitHub Time Stats" /> 
+  <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api/wakatime?username=gamemann&theme=blue-green&border_color=001F1E&text_color=09d672&icon_color=00C2C2&title_color=00F1E9" alt="My GitHub Time Stats" /> 
 </p>
 <p align="center"> 💖💖💖 Hello, I am a Full Stack Engineer with Extensive Blockchain and Trading Experience. 💖💖💖 </p>
 
