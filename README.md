@@ -3,9 +3,9 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=45&duration=1500&pause=1000&color=0C6CF7&center=true&vCenter=true&random=false&width=1200&height=100&lines=senior+Blockchain+Developer;seasoned+Web+Developer;">
   </a>
 </p>
-<h1><i>My Programming Stats</i></h1>
+<h3>
 <p align="center"> 💖💖💖 Hello, I am a Full Stack Engineer with Extensive Blockchain and Trading Experience. 💖💖💖 </p>
-
+</h3>
 # <i>Experienced Blockchain Networks</i>
 
 <table>
