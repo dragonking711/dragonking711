@@ -4,8 +4,15 @@
   </a>
 </p>
 <h3>
-<p align="center"> 💖💖💖 Hello, I am a Full Stack Engineer with Extensive Blockchain and Trading Experience. 💖💖💖 </p>
+<p> I am a dedicated Blockchain developer & IT Engineer on a mission to push boundaries and deliver innovative online solutions. With a focus on creating visually stunning and performant websites, montedev incorporates the latest industry trends and best practices. Through continuous learning and exploration, montedev transforms ideas into reality, showcasing the power of technological advancements in the digital realm
+
+My key skills
+*Web design and Fronend Develpment* with React.JS, Next.JS, Vue.JS, Angular.js, Typescript, TailwindCSS, Flutter, React Native.
+*Backend Development* with Node.JS, Golang, Laravel,.NET, Ruby on rail, Flask, Django, AWS, GCP, GraphQL, Postgresql.
+*Blockchain Development* Smart Contract with Solidity & Rust, Go, Dex, Defi, cosmos-SDK, Defin, cross-chain, Crypto Trading Bot.
+*Bot Development* in Telegram Tap To Earn Game(like **Hamster Kombat**), Discord Bot, Automation tools.
 </h3>
+</p>
 # <i>Experienced Blockchain Networks</i>
 
 <table>
